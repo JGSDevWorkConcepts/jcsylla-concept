@@ -59,5 +59,3 @@ Site vitrine statique (HTML/CSS/JS, sans framework) prêt pour GitHub Pages avec
 - Les prix affichés : déclaration d'impôt CHF 165.– / avec optimisation CHF 270.–. Le reste est « sur devis ».
 - Le logo actuel (`assets/logo.png`) est la v3 — remplacer ce fichier suffit pour le mettre à jour partout.
 - Quand la galerie 3D sera en ligne, remplacer le bloc « Bientôt en ligne » dans `creation-3d.html` par un lien vers celle-ci.
-
-
